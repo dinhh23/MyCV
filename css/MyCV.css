@@ -1,0 +1,20 @@
+body {
+    color: black;
+    font-family: roboto mono, verdana, arial, sans-serif;
+}
+h3 {
+    color:black;
+    border: 3px solid black;
+    margin-right: 1250px;
+    background-color:cornflowerblue;  
+}
+table {
+    border: 1px solid black;
+}
+.bold {
+    font-weight: bold;
+}
+.underline {
+    font-style: italic;
+    text-decoration: underline;
+}
